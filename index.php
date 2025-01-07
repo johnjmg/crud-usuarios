@@ -6,10 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Foro!</h1>
+    <h1>Foro de discusión</h1>
 </body>
 </html>
 
 <?php
 
-echo "holaaaa"
+echo "probando el sistema";
