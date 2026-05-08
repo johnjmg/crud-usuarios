@@ -114,5 +114,9 @@
     
     <!-- Bootstrap functions js-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <footer style="text-align: center; margin-top: 20px; font-size: 0.9em; color: gray;">
+        <p>© <?php echo date('Y'); ?> - Sistema de gestión de usuarios (Practica de CRUD con PHP) | Desarrollado por <a href="https://github.com/johnjmg">Jmartech</a></p>
+    </footer>
 </body>
 </html>
